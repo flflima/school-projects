@@ -1,0 +1,27 @@
+5
+pizza
+Calabreza
+35.0
+4
+Muzzarela
+Calabreza
+Queijo
+Cebola
+pizza
+Muzarela
+30.0
+3
+Muzzarela
+Cebola
+Molho de tomate
+massa
+Lasanha a bolonhesa
+50.0
+1
+Arroz
+bebida
+Cerveja
+4.5
+bebida
+Refrigerante
+2.5
